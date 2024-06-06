@@ -17,7 +17,10 @@ To run this project, you'll need to have Python and the following packages insta
 - pillow
 - matplotlib
 - numpy
+- tensorflow
+- tensorflow.keras
 
 You can install the required packages using `pip`:
 ```bash
-pip install torch torchvision pillow matplotlib numpy
+pip install torch torchvision pillow matplotlib numpy tensorflow
+
